@@ -11,7 +11,7 @@
             "is_ban": "2386892364823",
             "is_int": "2386892364823",
             
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban": "",
             "admob_int": "",
 
             "name": "Momo",
